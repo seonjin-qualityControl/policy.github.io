@@ -1,9 +1,12 @@
-site_name: 사전심리
+site_name: 품질관리절차
 theme:
   name: null
   custom_dir: 'cinder'
 nav:
-    - Home: 'index.md'
+    - 계약: 'index.md'
+    - 사전심리: 'qualityReview.md'
 markdown_extensions:
     - toc:
         permalink: "§"
+plugins:
+  - search
