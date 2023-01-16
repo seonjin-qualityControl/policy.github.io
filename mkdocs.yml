@@ -1,0 +1,9 @@
+site_name: 사전심리
+theme:
+  name: null
+  custom_dir: 'cinder'
+nav:
+    - Home: 'index.md'
+markdown_extensions:
+    - toc:
+        permalink: "§"
