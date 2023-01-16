@@ -19,3 +19,36 @@
 
 ![img](http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSFe9ShSurjuKqi5axvhoY3162zMSRNn6yy66o3vKH9V-GkmocA8DjSJSYDnddMvjrYlGKwoLccdB7yk2c)
 
+# 변경이력
+
+절차의 추가, 수정, 삭제 등 주요 변경 내역을 기록하고 있습니다.
+
+## 변경계획
+
+### 추가
+
+- Added Dutch translation
+
+### 수정
+
+- Fixed foldouts in Dutch translation
+
+## 2.0.0 - 2023-01-17
+
+### 추가
+
+- Danish translation from [@frederikspang](https://github.com/frederikspang).
+- Georgian translation from [@tatocaster](https://github.com/tatocaster).
+- Changelog inconsistency section in Bad Practices
+
+### 변경
+
+- Fixed typos in Italian translation from [@lorenzo-arena](https://github.com/lorenzo-arena).
+- Fixed typos in Indonesian translation from [@ekojs](https://github.com/ekojs).
+
+### 삭제
+
+- Fixed typos in Italian translation from [@lorenzo-arena](https://github.com/lorenzo-arena).
+- Fixed typos in Indonesian translation from [@ekojs](https://github.com/ekojs).
+
+## [1.0.0] - 2017-06-20
