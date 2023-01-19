@@ -38,14 +38,3 @@
 
 품질관리절차는 품질관리기준·주권상장법인 등록법인 등록요건과 내규의 요구사항에 따라 품질관리제도을 운영하기 위해 품질관리업무 담당이사가 수립한 절차입니다. 업무 진행에 참고 바랍니다.
 
-
-## What is the point
-
-![img](http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSFe9ShSurjuKqi5axvhoY3162zMSRNn6yy66o3vKH9V-GkmocA8DjSJSYDnddMvjrYlGKwoLccdB7yk2c){: style="height:auto;width:auto;max-width:300px"}
-
-
-#### Hello World
-```
-print('hello')
-```
-품질관리검토
