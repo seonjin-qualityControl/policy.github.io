@@ -25,3 +25,4 @@ extra_javascript:
   - app.js
 extra_css:
   - style.css
+  
