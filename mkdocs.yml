@@ -12,7 +12,7 @@ nav:
       - 품질관리절차: index.md
       - 계약: 'index.md'
       - 업무품질관리검토:
-        - 드롭다운: './qcProcedures/qualityReview.md'
+        - 사전심리와 품질관리검토: './qcProcedures/qualityReview.md'
 markdown_extensions:
     - toc:
         permalink: '#'
