@@ -61,8 +61,8 @@
                 {%- block next_prev %}
                 {%- if page and (page.next_page or page.previous_page) and not config.theme.disable_nav_previous_next %}
                 <li {% if not page.previous_page %}class="disabled" {% endif %}>
-                    <a rel="prev" {% if page.previous_page %}href="{{ page.previous_page.url|url }}" {% endif %}>
-                        <i class="fas fa-arrow-left"></i> Previous
+                    <a rel="prev" {% if page.previous_page %}href="https://sjacc-quality-portal.com/" {% endif %}>
+                        <i class="fas fa-arrow-left"></i> QC Portal
                     </a>
                 </li>
                 <li {% if not page.next_page %}class="disabled" {% endif %}>
