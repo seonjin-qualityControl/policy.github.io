@@ -1,12 +1,27 @@
-site_name: 품질관리절차
+site_name: 정책과 절차
 theme:
   name: null
   custom_dir: 'cinder'
 nav:
-    - 계약: 'index.md'
-    - 사전심리: 'qualityReview.md'
+    - 내규:
+      - 현행정관: index.md      
+      - 90 품질관리규정: ./policy/90-품질관리규정.md   
+    - 정책 공지:
+      - 현행정관: index.md 
+    - 품질관리절차:
+      - 품질관리절차: index.md
+      - 계약: 'index.md'
+      - 업무품질관리검토:
+        - 드롭다운: './qcProcedures/qualityReview.md'
 markdown_extensions:
     - toc:
-        permalink: "§"
+        permalink: '#'
+        baselevel: 1
+        toc_depth: 2-6
+    - attr_list
 plugins:
   - search
+extra_javascript:
+  - app.js
+extra_css:
+  - style.css

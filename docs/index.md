@@ -1,24 +1,48 @@
-# Welcome to MkDocs
+# 선진회계법인 정책과 절차
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+선진회계법인의 현행 정책과 절차를 확인할 수 있습니다.
 
-## Commands
+## 내규
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+사원총회, 운영위원회의 결의 또는 대표이사의 결정에 따라 제·개정된 현행 내규를 확인할 수 있습니다. 공인회계사법 에 따라 사원총회에서 제·개정하는 정관은 일련번호가 부여되어있지 않습니다. 일련번호가 '#0'인 내규는 운영위원회 규정이며, 규정의 위임에 따라 대표이사가 제·개정한 지침은 '#1-#9'까지의 일련번호가 부여됩니다. 관련서식은 [Qaulity Portal-Forms and Templates](https://sjacc-quality-portal.com/forms)에서 제공하고 있습니다.
 
-## Project layout
+* [정관(조회용)]()
+* [10 회계 및 자금관리 규정]()
+    * [11 자금지출 전결 지침]()
+    * [12 법인카드 사용 지침]()
+* [20 인사 규정]()
+    * [21 성과평가 지침]()
+    * [22 재택근무 지침]()
+* [30 운영위원회 규정]()
+* [40 감사운영에 관한 규정]()
+* [50 법인내부윤리 규정]()
+* [60 교육훈련 규정]()
+* [70 감사조서관리 규정]()
+* [80 상벌 규정]()
+* [90 품질관리 규정](./policy/90-%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95.md)
+    * [91 품질관리 규정(부록)]()
+    * [92 법인내부 윤리규정 및 품질관리규정 징계 지침]()
+    * [93 업무수임과 유지에 관한 Policy]()
+    * [94 심리방침]()
+    * [95 감사보수지침]()
+    * [96 외부감사업무 중요성 관리 규정]()
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 정책공지
+
+정책공지는 내규에 따른 대표이사와 품질관리업무 담당이사의 제도 관리 목적 결정사항입니다. 이메일·게시판·공지문자 등으로 안내하였고, 아래에 현행 정책공지 사항을 안내하였습니다.
+
+* [ITEM]()
+
+
+## 품질관리절차
+
+품질관리절차는 품질관리기준·주권상장법인 등록법인 등록요건과 내규의 요구사항에 따라 품질관리제도을 운영하기 위해 품질관리업무 담당이사가 수립한 절차입니다. 업무 진행에 참고 바랍니다.
+
 
 ## What is the point
 
-![img](http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSFe9ShSurjuKqi5axvhoY3162zMSRNn6yy66o3vKH9V-GkmocA8DjSJSYDnddMvjrYlGKwoLccdB7yk2c)
+![img](http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSFe9ShSurjuKqi5axvhoY3162zMSRNn6yy66o3vKH9V-GkmocA8DjSJSYDnddMvjrYlGKwoLccdB7yk2c){: style="height:auto;width:auto;max-width:300px"}
+
 
 #### Hello World
 ```
