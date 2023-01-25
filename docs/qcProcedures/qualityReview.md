@@ -1,54 +1,88 @@
-# 업무품질관리검토
+## 사전심리와 품질관리검토
 
-품질관리실은 외부감사법에 따라 업무품질관리검토 절차를 수립하여 운영하고 있습니다. 업무품질관리검토 대상 업무의 결과물은 배정된 업무품질관리 검토자의 발행전 검토를 받습니다. 검토 결과를 확인한 품질관리업무 담당이사의 승인으로 업무의 결과물은 발행될 수 있습니다. 
+품질관리실은 외부감사법에 따라 업무품질관리검토 절차를 수립하여 운영하고 있습니다. 업무품질관리검토 대상 업무의 결과물은 배정된 업무품질관리 검토자의 발행전 검토를 받습니다.
+
+내규([#](https://seonjin-qualitycontrol.github.io/policy.github.io/policy/90-%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95/#29))에 따라 감사보고서의 발행은 품질관리업무 담당이사의 승인 대상입니다.
+
+역시 내규에 따라 품질관리업무 담당이사는 대상업무의 발행전 사전심리([#](https://seonjin-qualitycontrol.github.io/policy.github.io/policy/90-%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95/#35)) 또는 품질관리검토([#](https://seonjin-qualitycontrol.github.io/policy.github.io/policy/90-%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95/#401))를 요구합니다. 이하 사전심리와 품질관리검토 절차를 구체적으로 설명하겠습니다. 
+
+<br>
+
+### 사전심리
+
+사전심리 대상, 사전심리 실시자의 배정, 요청자, 실시자가 수행할 구체적 절차와 문서화 사항를 설명합니다.
+
+#### 사전심리 대상
+
+다음 감사 업무는 내규([#](https://seonjin-qualitycontrol.github.io/policy.github.io/policy/90-%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95/#35))에 따라 사전심리 대상입니다.
+
+- 외감규정에 따라 사전심리 의무: 주권상장법인, 대형비상장주식회사, 금융회사, 감사인 지정을 받은 회사, 분사무소 소속 공인회계사가 감사업무를 수행한 회사
+- 내규에 사전심리 대상에 추가 반영: 사업보고서 제출대상 회사, 직전 회계연도에 비적정의견을 받은 회사, 공공기관, K-IFRS 적용, 연결 FS 작성, 초도 또는 신규감사
+- 품질관리업무 담당이사 지정: 상증세법상 감사인 지정을 받은 비외감법 감사업무
+
+!!! note "사전심리대상의 식별"
+
+        사전심리 대상은 외부감사대상과의 감사계약 체결 시점에 식별됩니다. 대상회사의 또는 감사업무의 특성의 변화애 따라 추가되거나 제외될 수 있습니다. 내규는 사전심리 대상의 식별 시점을 특정하지 않았으나, 사전심리 실시자의 자격 요건이 성과평가 이후인 점, 연결 감사보고서의 제출 일정, 반기 심리 일정 등을 고려할 때 6월 초에 심리대상 연차 확정하겠습니다. 이 후 12월 말까지 업데이트 내역은 주기적으로 업데이트되는 독립성 명부에서 확인할 수 있도록 관리하겠습니다.
+
+!!! note "사유가 복수로 적용되는 경우"
+
+        에를 들어, 주권상장법인이며 주기적 지정으로 수임한 회사의 경우 사전심리 사유는 '주권상장법인'입니다. 
+
+!!! note "현황 업데이트"
+
+        계약 후 다음의 사유로 특성이 변할 경우 심리대상이 될 수 있습니다. 계약 상황에 대해 지속적으로 모니터하여 업데이트해주십시오.
+        
+        - 감사보고서 제출로 대형비상장 여부 확정
+        - 적용기준 K-IFRS로 변경
+        - 기중 투자에 따라 종속회사 추가되어 연결 재무제표 작성 필요
+
+!!! note "지정 사유 부연 설명"
+
+        - 분사무소 소속 공인회계사가 감사업무를 수행한 회사는 대구지점의 모든 외부감사법 감사업무를 의미합니다. 
+        - 비적정의견은 한정, 부적정, 의견거절 등 의견변형 뿐 아니라 계속기업 불확실성에 대한 강조사항이 기재된 적정의견도 포함합니다. 공공기관은 공공기관 운영에 관한 법률에 따라 지정된 기관([#](https://www.alioplus.go.kr/organization/organByPub.do#:~:text=%EA%B3%B5%EA%B3%B5(%E5%85%AC%E5%85%B1)%EA%B8%B0%EA%B4%80%EC%9D%B4%20%EB%AC%B4%EC%8A%A8,%EC%A7%80%EC%A0%95%ED%95%9C%20%EA%B8%B0%EA%B4%80%EC%9D%84%20%EC%9D%98%EB%AF%B8%ED%95%A9%EB%8B%88%EB%8B%A4.))입니다. 
+        - 초도감사는 전기에도 외감법 감사 대상이었으나 감사인을 선진회계법인으로 교체한 경우를, 신규감사는 전기에 외감법 감사 대상이 아니었고 당기 
+
+#### 품질관리검토 대상 
+
+외부감사법에 의한 감사 업무 중 사전심리 대상이 아닌 업무는 품질관리검토 대상입니다. 또한, 다음의 업무
+
+- DART에 
+
+금융감독원 전자공시시스템(DART)에 공시되거나 금융감독원 등에 제출되는 비감사업무에 대한 보고서(예: 외부평가기관의 평가보고서 또는 실사보고서 등)
+감사인 등의 조직 및 운영 등에 관한 규정 제5조제1항제2호부터 제19호까지에 해당하는 감사(이하, “기타법감사”)에 대한 감사보고서(연결재무제표를 포함하며, 검토보고서도 포함한다.)
+그 외 품질관리업무 담당이사가 품질관리검토가 필요하다고 인정한 보고서
+
+#### 사전심리 
 
 
-내규에 따라 품질관리업무 담당이사의 발행 승인 대상은 감사 업무입니다.
-
-## 사전심리
-
-사전심리 대상, 사전심리 실시자의 배정, 사전심리 절차와 문서화를 설명합니다.
 
 
-## 품질관리검토 
+<br>
+
+### 품질관리검토 
 
 품질관리검토 대상, 품질관리검토 실시자의 배정, 품질관리검토 절차와 문서화를 설명합니다.
 
-
-## What is the point
+### What is the point
 
 ![img](http://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSFe9ShSurjuKqi5axvhoY3162zMSRNn6yy66o3vKH9V-GkmocA8DjSJSYDnddMvjrYlGKwoLccdB7yk2c)
 
-# 변경이력
+## 변경이력
 
 절차의 추가, 수정, 삭제 등 주요 변경 내역을 기록하고 있습니다.
 
-## 변경계획
+### 변경계획
 
-### 추가
+#### 추가
 
 - Added Dutch translation
 
-### 수정
+#### 수정
 
 - Fixed foldouts in Dutch translation
 
-## 2.0.0 - 2023-01-17
+### [1.0.0] - 2023-01-19
 
-### 추가
+최초 배포
 
-- Danish translation from [@frederikspang](https://github.com/frederikspang).
-- Georgian translation from [@tatocaster](https://github.com/tatocaster).
-- Changelog inconsistency section in Bad Practices
-
-### 변경
-
-- Fixed typos in Italian translation from [@lorenzo-arena](https://github.com/lorenzo-arena).
-- Fixed typos in Indonesian translation from [@ekojs](https://github.com/ekojs).
-
-### 삭제
-
-- Fixed typos in Italian translation from [@lorenzo-arena](https://github.com/lorenzo-arena).
-- Fixed typos in Indonesian translation from [@ekojs](https://github.com/ekojs).
-
-## [1.0.0] - 2017-06-20
+<!-- 추가/변경/삭제 -->

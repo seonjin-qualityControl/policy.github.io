@@ -7,18 +7,23 @@ nav:
       - 현행정관: index.md      
       - 90 품질관리규정: ./policy/90-품질관리규정.md   
     - 정책 공지:
-      - 현행정관: index.md 
+      - TBD: index.md
     - 품질관리절차:
       - 품질관리절차: index.md
       - 계약: 'index.md'
       - 업무품질관리검토:
-        - 사전심리와 품질관리검토: './qcProcedures/qualityReview.md'
+        - 사전심리와 품질관리검토: './qcProcedures/qualityReview.md'        
+      - 발행: ./qcProcedures/goPublic.md
 markdown_extensions:
     - toc:
         permalink: '#'
         baselevel: 1
         toc_depth: 2-6
     - attr_list
+    - footnotes
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
 plugins:
   - search
 extra_javascript:
