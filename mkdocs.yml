@@ -1,20 +1,24 @@
 site_name: 정책과 절차
+
 theme:
-  name: null
-  custom_dir: 'cinder'
+  name: material
+  custom_dir: overrides
+  favicon: ./assets/images/clip.png
+
 nav:
     - 내규:
-      - 현행정관: index.md      
+      # - 현행정관: index.md      
       - 90 품질관리규정: ./policy/90-품질관리규정.md   
       - 91 품질관리규정(부록): ./policy/91-품질관리규정(부록).md
-    - 정책 공지:
-      - TBD: index.md
+    # - 정책 공지:
+      # - TBD: index.md
     - 품질관리절차:
-      - 품질관리절차: index.md
-      - 계약: 'index.md'
+      # - 품질관리절차: index.md
+      # - 계약: 'index.md'
       - 업무품질관리검토:
         - 사전심리와 품질관리검토: './qcProcedures/qualityReview.md'        
       - 발행: ./qcProcedures/goPublic.md
+
 markdown_extensions:
     - toc:
         permalink: '#'
@@ -25,6 +29,7 @@ markdown_extensions:
     - admonition
     - pymdownx.details
     - pymdownx.superfences
+  
 plugins:
   - search
 extra_javascript:

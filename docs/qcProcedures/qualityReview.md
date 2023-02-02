@@ -1,8 +1,8 @@
-## 사전심리와 품질관리검토
+<!-- ## 사전심리와 품질관리검토 -->
 
 품질관리실은 외부감사법에 따라 업무품질관리검토 절차를 수립하여 운영하고 있습니다. 업무품질관리검토 대상 업무의 결과물은 배정된 업무품질관리 검토자의 발행전 검토를 받습니다.
 
-내규([#](https://seonjin-qualitycontrol.github.io/policy.github.io/policy/90-%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95/#29))에 따라 감사보고서의 발행은 품질관리업무 담당이사의 승인 대상입니다.
+내규([#](../policy/90-%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95#29))에 따라 감사보고서의 발행은 품질관리업무 담당이사의 승인 대상입니다.
 
 역시 내규에 따라 품질관리업무 담당이사는 대상업무의 발행전 사전심리([#](https://seonjin-qualitycontrol.github.io/policy.github.io/policy/90-%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95/#35)) 또는 품질관리검토([#](https://seonjin-qualitycontrol.github.io/policy.github.io/policy/90-%ED%92%88%EC%A7%88%EA%B4%80%EB%A6%AC%EA%B7%9C%EC%A0%95/#401))를 요구합니다. 이하 사전심리와 품질관리검토 절차를 구체적으로 설명하겠습니다. 
 
