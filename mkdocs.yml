@@ -10,6 +10,7 @@ nav:
       # - 현행정관: index.md      
       - 90 품질관리규정: ./policy/90-품질관리규정.md   
       - 91 품질관리규정(부록): ./policy/91-품질관리규정(부록).md
+      - 93 업무수임과 유지에 관한 Policy: ./policy/93-업무수임과 유지에 관한 Policy.md
     # - 정책 공지:
       # - TBD: index.md
     - 품질관리절차:
@@ -18,6 +19,8 @@ nav:
       - 업무품질관리검토:
         - 사전심리와 품질관리검토: './qcProcedures/qualityReview.md'        
       - 발행: ./qcProcedures/goPublic.md
+      - 업무의 수행:
+        - 조서: ./qcProcedures/workingPaper.md
 
 markdown_extensions:
     - toc:
@@ -29,6 +32,7 @@ markdown_extensions:
     - admonition
     - pymdownx.details
     - pymdownx.superfences
+    - md_in_html
   
 plugins:
   - search
