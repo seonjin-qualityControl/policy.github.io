@@ -14,13 +14,15 @@ nav:
     # - 정책 공지:
       # - TBD: index.md
     - 품질관리절차:
-      # - 품질관리절차: index.md
-      # - 계약: 'index.md'
+      - 계약: 'index.md'
       - 업무품질관리검토:
-        - 사전심리와 품질관리검토: './qcProcedures/qualityReview.md'        
+        - 외부감사법 감사업무: './qcProcedures/qualityReview.md'        
       - 발행: ./qcProcedures/goPublic.md
       - 업무의 수행:
+        - 시간: ./qcProcedures/workingPaper.md
         - 조서: ./qcProcedures/workingPaper.md
+        - 기타: ./qcProcedures/workingPaper.md
+    - 관련 절차: ./qcProcedures/workingPaper.md
 
 markdown_extensions:
     - toc:

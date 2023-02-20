@@ -191,4 +191,5 @@ Audit Lobby 사용법은 [Audit LOBBY User Guide](https://userguide.auditlobby.c
     - [2021 감사조서서식(예시) 배포안내](https://board.office.hiworks.com/sjacc.co.kr/bbs/board/board_view/7330/480/new_list#)
 - [[품질관리실] 조서 대여·반납·수정 절차 안내](https://board.office.hiworks.com/sjacc.co.kr/bbs/board/board_view/7328/461/new_list#)
 - [[품질관리실] 전기 감사조서 열람 절차](https://board.office.hiworks.com/sjacc.co.kr/bbs/board/board_view/7328/434/new_list#)
+- [[품질관리실] 감사정보 유출방지 절차 안내](https://board.office.hiworks.com/sjacc.co.kr/bbs/board/board_view/7328/440#)
 
