@@ -221,6 +221,10 @@
 
         ![img](../assets/qcProcedures/qualityReview/qr-15.png)
 
+        !!! warning "사전심리 실시자는 사전심리 종료 메시지를 반드시 확인해주세요"
+            
+            ![img](../assets/qcProcedures/qualityReview/qr-21.png){:width="60%"}
+
 #### 발행승인
 
 사전심리결과를 확인한 후 품질관리업무 담당이사는 발행승인합니다. 외감법 감사업무의 발행은 오딧로비에서 8550, 8550CL 사인오프로 승인합니다.
